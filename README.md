@@ -47,5 +47,3 @@ Give securely using various payment options.
 
 4️⃣ **Track Impact**  
 Receive updates and track how your donations are used.
-
----
