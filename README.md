@@ -2,7 +2,7 @@
 
 **GiveBack** is a modern, user-friendly donation platform built with [Streamlit](https://streamlit.io), designed to connect generous donors with trusted, verified organizations and individuals in need. Make an impact globally—track your donations and see the change you help create.
 
----
+
 
 ## 🌟 Features
 
@@ -24,7 +24,7 @@
 - 🏆 **Verified Partners**  
   All partner organizations go through a strict vetting process for legitimacy and effectiveness.
 
----
+
 
 ## 🛠️ Built With
 
@@ -32,7 +32,7 @@
 - [Streamlit](https://streamlit.io)
 - Custom HTML/CSS for styling
 
----
+
 
 ## 📝 How It Works
 
